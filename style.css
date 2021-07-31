@@ -1,0 +1,20 @@
+body
+{
+    background-color: #FCD8D4;
+}
+
+h1{
+    color: #362222;
+    background-color: #FDF6F0;
+    border: 2px solid #F5C6AA;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    width: 20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-style: italic;
+    font-size: large;
+}
